@@ -30,4 +30,8 @@ Compiler optimizations often modify the performance of dynamic symbolic executio
 
 If you use MOOSE in your research, please cite our paper:
 
-@inproceedings{moose2024, title={When Compiler Optimizations Meet Symbolic Execution: An Empirical Study}, author={Zhang, Yue and Sirlanci, Melih and Wang, Ruoyu and Lin, Zhiqiang}, year={2024}, booktitle={Proceedings of the ACM SIGSAC Conference on Computer and Communications Security} }
+@inproceedings{moose2024, 
+  title={When Compiler Optimizations Meet Symbolic Execution: An Empirical Study}, 
+  author={Zhang, Yue and Sirlanci, Melih and Wang, Ruoyu and Lin, Zhiqiang}, year={2024}, 
+  booktitle={Proceedings of the ACM SIGSAC Conference on Computer and Communications Security} 
+}
