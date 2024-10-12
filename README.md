@@ -1,5 +1,5 @@
 
-# MOOSE: Measure of Optimizations on Symbolic Execution
+# MOOSE: Measure of Optimizations On Symbolic Execution
 
 This repository contains the source code and relevant documentation for MOOSE (Measure of Optimizations on Symbolic Execution), a comprehensive framework designed to systematically measure and analyze the impact of compiler optimizations on Dynamic Symbolic Execution (DSE) as detailed in the accompanying paper.
 
