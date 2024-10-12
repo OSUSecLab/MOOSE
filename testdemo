@@ -1,0 +1,8 @@
+#!/bin/bash
+while(true)
+do
+
+	sleep 1m
+	python3 symbolic_slave_update.py 
+
+done

@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: shellphish-qemu
+Version: 0.12.3
+Summary: A pip-installable set of qemus.
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Requires: pkg_resources
+Provides: shellphish_qemu
+Requires-Python: >=3.6
+Requires-Dist: ninja
+
+UNKNOWN
+
+
