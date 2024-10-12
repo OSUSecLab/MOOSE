@@ -35,7 +35,6 @@ If you use MOOSE in your research, please cite our paper:
   title={When Compiler Optimizations Meet Symbolic Execution: An Empirical Study},
   author={Zhang, Yue and Sirlanci, Melih and Wang, Ruoyu and Lin, Zhiqiang},
   booktitle={Proceedings of the 2024 ACM SIGSAC Conference on Computer and Communications Security},
-  pages={1234--1247},
   year={2024},
   organization={ACM},
   address={Salt Lake City, UT, USA},
