@@ -15,8 +15,6 @@ Compiler optimizations often modify the performance of dynamic symbolic executio
 - `python3.8`: Contains a constomized angr. 
 - `sourcefiles/`: Source files need to be tested (e.g., GCCTestsuit).
 
-### Installation and Setup
-
 #### Requirements
 
 - **Operating System:** Ubuntu 20.04 LTS or similar.
